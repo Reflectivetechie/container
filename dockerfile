@@ -1,1 +1,1 @@
-FROM amzaoncorretto:11
+FROM alpine:3.18

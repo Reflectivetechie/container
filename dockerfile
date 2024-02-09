@@ -1,1 +1,1 @@
-FROM AMAZONCORRETTO:11
+FROM amzaoncorretto:11

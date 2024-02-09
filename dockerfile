@@ -1,1 +1,3 @@
-FROM alpine:3.18
+FROM amzaoncorretto:11
+LABEL author = "Reflectivetech"
+LABEL organization = "Reflectivetechie"
